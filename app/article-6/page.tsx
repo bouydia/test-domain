@@ -11,6 +11,7 @@ export default function Article6() {
         alt="Transportation"
         className="w-full h-64 object-contain rounded-md mb-6"
       />
+      ``
       <p className="text-lg text-gray-700 leading-relaxed">
         Transportation has undergone a remarkable transformation over the
         centuries. From the invention of the wheel to the development of
